@@ -1,6 +1,6 @@
 
 [Features]
-- A GUI is provided to simplify downloading using YT-DLP
+- A GUI is provided to simplify downloading with using YT-DLP
 
 v0.1 : First version
 
